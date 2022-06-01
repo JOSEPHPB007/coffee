@@ -12,7 +12,7 @@
     left: 0;
     z-index: 100;
     padding: .5rem 5rem;
-    box-shadow: 5px 5px 20px rgb(75, 245, 174);;
+    box-shadow: 5px 5px 20px  #0d6efd !important;
 }
 .navbar .navbar-brand{
     font-size: 30px;
@@ -20,22 +20,22 @@
     /* color: rgb(214, 64, 64);  */
 }
 #navbarSupportedContent a{
-    color: rgb(75, 245, 174);;
+    color:  #0d6efd;
     border-bottom: 2px solid transparent;
 }
 #navbarSupportedContent a:hover{
-    border-bottom: 2px solid rgb(75, 245, 174);;
+    border-bottom: 2px solid  #0d6efd !important;
 }
 .d-flex button{
-    color:rgb(75, 245, 174);
+    color: #0d6efd !important;
 }
 .navbar-toggler{
-   color:rgb(75, 245, 174) !important ;
+   color: #0d6efd !important ;
    /* stroke: rgb(75, 245, 174) !important; */
 
 }
 .navbar-toggler-icon{
-    border-color:rgb(75, 245, 174) !important ;
+    border-color: #0d6efd !important ;
     
 }
 section{
@@ -81,7 +81,7 @@ section{
     height: 45px;
 }
 .signin{
-    background-color: rgb(75, 245, 174) !important;
+    background-color: #0d6efd !important;
     color: rgb(0, 0, 0) !important;
      box-shadow:2px 4px 5px rgba(0,0,0,0.4) ;
 }
@@ -92,7 +92,7 @@ section{
 }
 
 #about{
-    background: linear-gradient(to right,rgb(255, 255, 255),white, rgb(75, 245, 174)100%);
+    background: linear-gradient(to right,rgb(255, 255, 255),white,  #0d6efd)100%);
     
 }
 #about h4{
@@ -180,6 +180,6 @@ footer{
     background: rgba(0, 0, 0, 0.8);
     margin-top: -30px;
     text-align: center;
-    color:rgb(75, 245, 174) ;
+    color: #0d6efd;
     padding: 3px;
 }
